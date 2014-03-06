@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  equipo1: MyString
+  equipo2: MyString
+  res1: 1
+  res2: 1
+
+two:
+  equipo1: MyString
+  equipo2: MyString
+  res1: 1
+  res2: 1
